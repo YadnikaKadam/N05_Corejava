@@ -11,6 +11,8 @@ public class TernaryOperator {
 		int num=s.nextInt();
 		String res=(num%2==0)?"Even":"Odd";
 		System.out.println("Result is5:"+res);
+		
+		s.close();
 	}
 
 }
