@@ -23,7 +23,7 @@ public class Android {
 	}
 	public Android() {
 		super();
-		System.out.println("Default Constructor")
+		System.out.println("Default Constructor");
 	}
 	public Android(String brandName, String slotType) {
 		super();
