@@ -4,7 +4,7 @@ public class StaticBlock {
 	
 	static float salary;
 	String companyName;
-	/*static block is used to initialize the staticc variable
+	/*static block is used to initialize the static variable
 	 * we can't assign a value for any non-static variable inside */
 	static {
 		//companyName="Accenture";
