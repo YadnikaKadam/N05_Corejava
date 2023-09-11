@@ -1,4 +1,4 @@
-//It can be used to refer instance variable of cuurent class
+//It can be used to refer instance variable of current class
 
 package org.tnsif.thiskeyword;
 
